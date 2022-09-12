@@ -1,0 +1,47 @@
+.pp {
+    font-size: xx-large;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.a {
+    width: 30vw;
+    height: 20vh;
+    margin-top: 10px;
+}
+
+body {
+    background-color: rgb(83, 83, 83);
+    color: white;
+    font-family: Diplomata SC;
+}
+
+.end {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Diploma, Diplomata SC;
+}
+.a:hover {
+    border: 1px solid red;
+}
+.dant{
+    text-decoration: none;
+    text-decoration-color: black;
+    color: black;
+}
+.your{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+pre{
+    font-family: diplomata SC;
+    font-size: xxx-large;
+}
+iframe{
+    width: 95vw;
+    margin-left: 2.5vw;
+}
